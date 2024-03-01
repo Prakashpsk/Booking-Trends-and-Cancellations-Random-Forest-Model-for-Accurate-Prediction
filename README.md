@@ -4,6 +4,10 @@
 
 In this project, we aim to predict whether a hotel booking will be canceled or not using a** Random Forest model**. We will analyze a hotel booking dataset to understand patterns and factors influencing booking cancellations.
 
+![](https://github.com/Prakashpsk/Booking-Trends-and-Cancellations-Random-Forest-Model-for-Accurate-Prediction/blob/main/introduction.png)
+
+
+
 ## Skills/Concepts Developed
 
 - Exploratory Data Analysis (EDA)
@@ -36,6 +40,12 @@ Have you ever wondered how many hotel bookings are canceled or what is the peak 
 
 We will visualize the feature importances of the Random Forest model to understand the factors influencing hotel booking cancellations.
 
+
+
+![](https://github.com/Prakashpsk/Booking-Trends-and-Cancellations-Random-Forest-Model-for-Accurate-Prediction/blob/main/feauther_impotence.png)
+
+
+
 ## Conclusion
 
 In conclusion, we successfully built a Random Forest model to predict hotel booking cancellations. The model achieved high accuracy and ROC AUC score, indicating its effectiveness in predicting cancellations.
@@ -50,10 +60,10 @@ To use this model, simply follow the steps outlined in the code and adjust param
 
 ## Credits
 
-- Dataset: [Hotel Booking Demand](https://www.sciencedirect.com/science/article/pii/S2352340918315191)
+- Dataset: https://github.com/Prakashpsk/Predicting-Hotel-Booking-Cancellations-Building-a-Decision-Tree-Model/blob/main/hotel%20(1).csv
 - Libraries: scikit-learn, pandas, matplotlib, seaborn
 
 ## About the Author
 
-[Your Name]
+[Prakash.P] is a [Data Scientist] with expertise in [Modeling]. Feel free to reach out for any questions or collaborations[prakash2822001@gmail.com].
 
